@@ -1,0 +1,27 @@
+May 22, 2022
+
+## Address book
+- Address list: User can see their saved addres list
+- Add a new Address
+- Update existing Address
+
+## Notifications
+- Update notification for various occasion 
+
+## Contact preferences
+- Get notified by email or text for various event
+
+## Help improve the app
+- Suggest an idea
+  - User can suggest an idea by writing us
+- Report a bug
+  - User can report an issue of App.
+
+
+  May 30
+  ## Pending Items
+  - My AttitudeCoins
+  - Payment methods
+  - Need help
+  - Rate this app
+  - Sign out

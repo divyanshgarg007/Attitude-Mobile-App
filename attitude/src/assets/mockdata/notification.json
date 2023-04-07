@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "DISCOUNT & SALES",
+        "description": "Be first in line to nab the stuff you love for less.",
+        "status": true
+    },
+    {
+        "id": 1,
+        "name": "NEW ITEMS",
+        "description": "Fashion drops, news and style advice: hear it first, wear it first.",
+        "status": false
+    },
+    {
+        "id": 2,
+        "name": "YOUR EXCLUSIVES",
+        "description": "Enjoy a birthday treat, as well and account updates..",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "STOCK NOTIFICATIONS",
+        "description": "If that product you’re into comes back in stock, get a heads-up.",
+        "status": true
+    },
+    {
+        "id": 4,
+        "name": "ORDER & RETURN UPDATES",
+        "description": "We’ll keep you updated on the status of your order.",
+        "status": true
+    }
+]

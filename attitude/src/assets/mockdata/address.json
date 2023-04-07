@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "DELIVERY ADDRESS",
+        "firstName": "Gabriëlle",
+        "lastName": "Karsowidjojo",
+        "houseNumber": "4E",
+        "zip": "1135GD",
+        "street": "Energiestraat",
+        "address2": "",
+        "country": "Netherlands",
+        "phoneNumber": "06 12345678"
+    },
+    {
+        "id": 1,
+        "title": "BILLING ADDRESS",
+        "firstName": "Gabriëlle",
+        "lastName": "Karsowidjojo",
+        "houseNumber": "4E",
+        "zip": "1135GD",
+        "street": "Energiestraat",
+        "address2": "",
+        "country": "Netherlands",
+        "phoneNumber": "06 12345678"
+    }
+]

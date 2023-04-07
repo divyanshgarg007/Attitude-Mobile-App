@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "name": "Restyle Short dress Lucretia Black",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 1,
+        "name": "Urban Classics Short dress Black",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 2,
+        "name": "Killstar Short dress Corin Black",
+        "price": "€ 6999"
+    },
+    {
+        "id": 3,
+        "name": "Killstar Skater dress Rotten Luck",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 4,
+        "name": "WET ASPHALT",
+        "price": "€ 55,99"
+    },
+    {
+        "id": 5,
+        "name": "GREEN SEA",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 6,
+        "name": "NEPHRITIS",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 7,
+        "name": "BELIZE HOLE",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 8,
+        "name": "WISTERIA",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 9,
+        "name": "MIDNIGHT BLUE",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 10,
+        "name": "SUN FLOWER",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 11,
+        "name": "CARROT",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 12,
+        "name": "ALIZARIN",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 13,
+        "name": "CLOUDS",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 14,
+        "name": "CONCRETE",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 15,
+        "name": "ORANGE",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 16,
+        "name": "PUMPKIN",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 17,
+        "name": "POMEGRANATE",
+        "price": "€ 69,99"
+    },
+    {
+        "id": 18,
+        "name": "SILVER",
+        "price": "€ 33,99"
+    },
+    {
+        "id": 19,
+        "name": "ASBESTOS",
+        "price": "€ 69,99"
+    }
+]

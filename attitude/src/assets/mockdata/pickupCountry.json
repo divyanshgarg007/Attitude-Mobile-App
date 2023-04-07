@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Netherlands",
+        "type": "NL"
+    },
+    {
+        "id": 1,
+        "name": "Belgie",
+        "type": "BE"
+    },
+    {
+        "id": 2,
+        "name": "Denemarken",
+        "type": "DK"
+    },
+    {
+        "id": 3,
+        "name": "Finland",
+        "type": "FI"
+    },
+    {
+        "id": 4,
+        "name": "Frankrijk",
+        "type": "Frankrijk"
+    },
+    {
+        "id": 5,
+        "name": "Duistland",
+        "type": "Duistland"
+    },
+    {
+        "id": 6,
+        "name": "UK",
+        "type": "UK"
+    },
+    {
+        "id": 7,
+        "name": "Italie",
+        "type": "Italie"
+    },
+    {
+        "id": 8,
+        "name": "Luxemburg",
+        "type": "LU"
+    },
+    {
+        "id": 9,
+        "name": "Noorwegen",
+        "type": "Noorwegen"
+    },
+    {
+        "id": 10,
+        "name": "Spanje",
+        "type": "Spanje"
+    },
+    {
+        "id": 11,
+        "name": "Zweden",
+        "type": "Zweden"
+    }
+]

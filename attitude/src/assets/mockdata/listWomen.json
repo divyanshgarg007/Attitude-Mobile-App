@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "SALE"
+    },
+    {
+        "id": 2,
+        "name": "NEW"
+    },
+    {
+        "id": 3,
+        "name": "FASHION"
+    },
+    {
+        "id": 4,
+        "name": "YOUTH"
+    },
+    {
+        "id": 5,
+        "name": "SHOES"
+    },
+    {
+        "id": 6,
+        "name": "HAIR DYE"
+    },
+    {
+        "id": 7,
+        "name": "LIFESTYLE"
+    },
+    {
+        "id": 8,
+        "name": "ACCESSORIES"
+    },
+    {
+        "id": 9,
+        "name": "BODY & JEWELLERY"
+    },
+    {
+        "id": 10,
+        "name": "PARTY WEAR"
+    },
+    {
+        "id": 11,
+        "name": "BEAUTY"
+    },
+    {
+        "id": 12,
+        "name": "BRANDS"
+    },
+    {
+        "id": 13,
+        "name": "MERCHANDISE"
+    },
+    {
+        "id": 14,
+        "name": "ATTITUDE SECRETS"
+    },
+    {
+        "id": 15,
+        "name": "ATTITUDE FAMILY"
+    },
+    {
+        "id": 16,
+        "name": "LOOKBOOK"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "question": "What are eCredits?",
+        "answer": "eCredits are bonuspoints/online credit. You can use these eCredits (bonuspoints) when you make an order over €15,-. At step 2 of the orderproces, you can activate your eCredits by ticking the \"eCredit box\""
+    },
+    {
+        "id": 1,
+        "question": "I wanted to place an order, but forgot something. So I went back in the orderproces, but lost my eCredits. How do I get them back? ",
+        "answer": "Send an e-mail to hello@attitudeholland.nl. We will fix it, and activate your eCredits again."
+    },
+    {
+        "id": 2,
+        "question": "When I return an item, do I also get my eCredits back onto my account.",
+        "answer": "Yes we will activate the eCredits again, if you returned an article to us."
+    },
+    {
+        "id": 3,
+        "question": "What does \"withdraw\" mean behind my eCredits?",
+        "answer": "- \"Withdraw\"  = the value of these eCredits you can use with your next order. Or you can get this ammount paid back into your bankaccount by simply clicking on \"withdraw\". These eCredits have been given because you returned an item to us.\n- No \"Withdraw\" = the value of these eCredits you can use with your next order @AttitudeHolland.nl. "
+    }
+]

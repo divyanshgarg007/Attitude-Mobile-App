@@ -1,0 +1,21 @@
+#1 add font file in 
+PROJECT-DIRECTORY/assets/fonts
+
+#2
+Add the configuration to the project
+If not already created, create a config file at the root of the project named react-native.config.js. Proceed by adding the following code inside module.exports:
+
+module.exports = {
+    project: {
+        ios:{},
+        android:{}
+    },
+    assets:['./assets/fonts/'],
+}
+
+#3
+Link the assets to the project
+
+After the above steps have been done, we can simply run a command to link the fonts that we just added.
+
+$ npx react-native link

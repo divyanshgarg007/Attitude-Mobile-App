@@ -1,0 +1,32 @@
+[
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "",
+            "description": "New",
+            "extra1": "New",
+            "id": "1476_n",
+            "parentId": "1476",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    },
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "",
+            "description": "Sale",
+            "extra1": "Sale",
+            "id": "1476_s",
+            "parentId": "1476",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "name": "Netherlands"
+    },
+    {
+        "id": 1,
+        "name": "Germany"
+    },
+    {
+        "id": 2,
+        "name": "Belgium"
+    },
+    {
+        "id": 3,
+        "name": "France"
+    },
+    {
+        "id": 4,
+        "name": "Finland"
+    },
+    {
+        "id": 5,
+        "name": "United Kingdom"
+    },
+    {
+        "id": 6,
+        "name": "Austria"
+    },
+    {
+        "id": 7,
+        "name": "Croatie"
+    },
+    {
+        "id": 8,
+        "name": "Denmark"
+    },
+    {
+        "id": 9,
+        "name": "Estland"
+    },
+    {
+        "id": 10,
+        "name": "Greece"
+    },
+    {
+        "id": 11,
+        "name": "Ireland"
+    },
+    {
+        "id": 12,
+        "name": "Italy"
+    },
+    {
+        "id": 13,
+        "name": "Letland"
+    },
+    {
+        "id": 14,
+        "name": "Litouwen"
+    },
+    {
+        "id": 15,
+        "name": "Luxemburg"
+    },
+    {
+        "id": 16,
+        "name": "Norway"
+    },
+    {
+        "id": 17,
+        "name": "Poland"
+    },
+    {
+        "id": 18,
+        "name": "Portugal"
+    },
+    {
+        "id": 19,
+        "name": "Slovenië"
+    },
+    {
+        "id": 20,
+        "name": "Spain"
+    },
+    {
+        "id": 21,
+        "name": "Sweden"
+    },
+    {
+        "id": 22,
+        "name": "Switzerland"
+    },
+    {
+        "id": 23,
+        "name": "Tsjechië"
+    },
+    {
+        "id": 24,
+        "name": "United States"
+    }
+]

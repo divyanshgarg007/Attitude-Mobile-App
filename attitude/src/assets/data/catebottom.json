@@ -1,0 +1,76 @@
+[
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "440",
+            "description": "Hairdye",
+            "extra1": "Hairdye",
+            "id": "1227",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    },
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "455",
+            "description": "Band",
+            "type": "Band",
+            "extra1": "Bands",
+            "id": "455",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    },
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "2",
+            "description": "Merchandise",
+            "type": "Merchandise",
+            "extra1": "Merchandise",
+            "id": "2",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    },
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "420",
+            "description": "Merken",
+            "type": "Merk",
+            "extra1": "Brands",
+            "id": "420",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    },
+    {
+        "webgroup": [],
+        "_attrs": {
+            "arts": "true",
+            "bitpos": "13",
+            "description": "Games",
+            "type": "Games",
+            "extra1": "Games",
+            "id": "13",
+            "image": "Layout/Icons/homewear.png",
+            "mgi": "1",
+            "rank": "4",
+            "sel": "false"
+        }
+    }
+]

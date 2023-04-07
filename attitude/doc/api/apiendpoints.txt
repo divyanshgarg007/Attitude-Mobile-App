@@ -1,0 +1,124 @@
+Hi guys,
+
+I've received some much needed information from the backend guys. Unfortunately, he wrote it in Dutch, so below, you'll find my translation.
+
+ 
+
+API specifics test environment Attitude:
+
+Website: https://attitude.local.ibvision.nl
+
+API endpoint: https://attitude.local.ibvision.nl/api/v1
+
+API Key: iEQftwOK0HenqV0l
+
+ 
+API description: https://help.ibvision.nl/api/
+
+ 
+Extra methods for Attitude app:
+
+“Just dropped” articles: GET https://attitude.local.ibvision.nl/api/v1/articles/justdropped
+
+“Most wanted” articles: GET https://attitude.local.ibvision.nl/api/v1/articles/mostwanted
+
+
+
+These methods return the same data as the regular GET /articles methods, like described in the documentation.
+
+ 
+
+## Artikel images:
+
+Articles contain a <files> block, containing the article images. Base URL for images is https://cdn.attitudeholland.nl/_clientfiles/King/
+
+
+## Multi lang:
+
+Communication with the API is session based. When opening a session, you can set the language, which persists within the session for all consequent calls.
+
+(ie. language is connected to the bearer token)
+
+We have four active languages for Attitude: NL, EN, FR and DE.
+
+So first:
+POST /language                
+{“language”: “EN”}
+
+ 
+
+And then:
+
+## mostwanted
+GET /articles/mostwanted
+
+ 
+## Recent Event entries:
+GET https://attitude.local.ibvision.nl/api/v1/events/recent
+
+ 
+For each <entry>:
+
+<event>: Event details (mainly title and ID, which is relevant for deep linking)
+
+<profile>: Details about the contributor (name and id most importantly)
+
+<media>: The event images. Base-URL is https://www.attitudeholland.nl/_clientfiles/AttitudeEvents/profile. 
+
+
+
+De firt entry in the example below would be:
+
+ https://www.attitudeholland.nl/_clientfiles/AttitudeEvents/profile/3b1c0d40-09df-6661-a174-764448815c59/me16784_07a9cde4863e2791917181917eecdc3f.jpg
+
+
+A size parameter can be added (this also works for article images!):
+
+        s: 100x100 pixels
+        m: 500x500 pixels
+        l: 1000x1000 pixels
+       
+Example: 
+https://www.attitudeholland.nl/_clientfiles/AttitudeEvents/profile/3b1c0d40-09df-6661-a174-764448815c59/me16784_07a9cde4863e2791917181917eecdc3f.jpg?size=m
+
+                               
+Recent entries XML:
+<entries>
+        <entry>
+               <id>16784</id>
+               <event>
+                       <id>668</id>
+                       <title>Win €50 for World Goth Day</title>
+               </event>
+               <profile>
+                       <id>38711</id>
+                       <guid>3b1c0d40-09df-6661-a174-764448815c59</guid>
+                       <name>Charles Armour-Dow</name>
+               </profile>
+               <media>
+                       <img primary="true">3b1c0d40-09df-6661-a174-764448815c59/me16784_07a9cde4863e2791917181917eecdc3f.jpg</img>
+                       <url></url>
+               </media>
+
+        </entry>
+
+        <entry>
+               <id>16783</id>
+               <event>
+                       <id>667</id>
+                       <title>Win A Gift for Mental Health Awareness Month</title>
+               </event>
+               <profile>
+                       <id>37760</id>
+                       <guid>fab1b2fd-c241-5993-97b7-fda535aae098</guid>
+                       <name>IgnireCaligo</name>
+               </profile>
+
+               <media>
+                       <img primary="true">fab1b2fd-c241-5993-97b7-fda535aae098/me16783_01544aa02a86273a8cedfa76dd5cc702.jpg</img>
+                       <img>fab1b2fd-c241-5993-97b7-fda535aae098/me16783_7782da898a6a0333593df1f8be3205f0.jpg</img>
+                       <img>fab1b2fd-c241-5993-97b7-fda535aae098/me16783_beaf9a2ab8b46a2d215ceb1967a64456.jpg</img>
+                       <url></url>
+               </media>
+        </entry>
+</entries>

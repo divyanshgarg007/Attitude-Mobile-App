@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "status": "SHIPPED 1/2",
+        "orderId": "34736282901",
+        "date": "02 March 2022",
+        "items": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 1,
+        "status": "IN PROGRESS...",
+        "orderId": "34736234802",
+        "date": "15 February 2022",
+        "items": [
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "status": "UNPAID",
+        "orderId": "5432628124",
+        "date": "05 January 2022",
+        "items": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 3,
+        "status": "IT’S DELIVERED!",
+        "orderId": "34736234802",
+        "date": "22 December 2021",
+        "items": [
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "status": "CANCELLED",
+        "orderId": "3473623123",
+        "date": "12 November 2021",
+        "items": [
+            "",
+            "",
+            ""
+        ]
+    }
+]

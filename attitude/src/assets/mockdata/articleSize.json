@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "name": "XS",
+        "price": "€ 45,99",
+        "deliverytime": "3-5 Days"
+    },
+    {
+        "id": 1,
+        "name": "S  ",
+        "price": "€ 29,99",
+        "originalPrice": "€ 45,99",
+        "deliverytime": "In stock"
+    },
+    {
+        "id": 2,
+        "name": "M ",
+        "price": "€ 45,99",
+        "deliverytime": "3-5 Days"
+    },
+    {
+        "id": 3,
+        "name": "L   ",
+        "price": "€ 45,99",
+        "deliverytime": "3-5 Days"
+    },
+    {
+        "id": 4,
+        "name": "XL",
+        "price": "€ 45,99",
+        "deliverytime": "3-5 Days"
+    },
+    {
+        "id": 5,
+        "name": "2XL",
+        "price": "€ 45,99",
+        "deliverytime": "3-5 Days"
+    },
+    {
+        "id": 6,
+        "name": "3XL",
+        "price": "€ 45,99",
+        "deliverytime": "5-10 Days"
+    },
+    {
+        "id": 7,
+        "name": "4XL",
+        "price": "€ 45,99",
+        "deliverytime": "5-10 Days"
+    },
+    {
+        "id": 8,
+        "name": "5XL",
+        "price": "€ 45,99",
+        "deliverytime": "5-10 Days"
+    },
+    {
+        "id": 9,
+        "name": "6XL",
+        "price": "€ 45,99",
+        "deliverytime": "5-10 Days"
+    }
+]

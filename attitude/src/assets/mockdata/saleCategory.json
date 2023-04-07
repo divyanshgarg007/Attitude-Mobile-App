@@ -1,0 +1,28 @@
+{
+    "_attrs": {
+        "arts": "true",
+        "bitpos": "",
+        "description": "Sale",
+        "extra1": "Sale",
+        "id": "1476_s",
+        "parentId": "1476",
+        "image": "Layout/Icons/homewear.png",
+        "mgi": "1",
+        "rank": "4",
+        "sel": "false"
+    },
+    "webgroup": [
+        {
+            "_attrs": {
+                "id": "15",
+                "bitpos": "111",
+                "rank": "1",
+                "description": "ALL SALE",
+                "extra1": "ALL SALE",
+                "mgi": "1",
+                "sel": "false",
+                "arts": "true"
+            }
+        }
+    ]
+}

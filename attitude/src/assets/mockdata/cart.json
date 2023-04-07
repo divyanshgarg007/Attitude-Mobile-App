@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "name": "Restyle Short dress Lucretia Black",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 1,
+        "name": "Urban Classics Short dress Black",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 2,
+        "name": "Killstar Short dress Corin Black",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 3,
+        "name": "Killstar Skater dress Rotten Luck",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 4,
+        "name": "WET ASPHALT",
+        "price": "€ 55,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 5,
+        "name": "GREEN SEA",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 6,
+        "name": "NEPHRITIS",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 7,
+        "name": "BELIZE HOLE",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 8,
+        "name": "WISTERIA",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 9,
+        "name": "MIDNIGHT BLUE",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 10,
+        "name": "SUN FLOWER",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 11,
+        "name": "CARROT",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 12,
+        "name": "ALIZARIN",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 13,
+        "name": "CLOUDS",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 14,
+        "name": "CONCRETE",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 15,
+        "name": "ORANGE",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 16,
+        "name": "PUMPKIN",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 17,
+        "name": "POMEGRANATE",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 18,
+        "name": "SILVER",
+        "price": "€ 33,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    },
+    {
+        "id": 19,
+        "name": "ASBESTOS",
+        "price": "€ 69,99",
+        "deliveryDate": "Delivery: 20 March - 31 March"
+    }
+]

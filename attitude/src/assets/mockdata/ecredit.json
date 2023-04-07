@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "eCredits": 2432,
+        "detail": "Refund for order #793280, €25",
+        "expiry": "13 April 2024"
+    },
+    {
+        "id": 1,
+        "eCredits": 1000,
+        "detail": "Kwartaalbonus, €100,00",
+        "expiry": "13 April 2024"
+    },
+    {
+        "id": 2,
+        "eCredits": 1400,
+        "detail": "Refund for order #747237, €15,47",
+        "expiry": "13 April 2024"
+    }
+]

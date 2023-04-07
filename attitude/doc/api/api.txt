@@ -1,0 +1,23 @@
+## justdropped
+For home screen
+https://attitude.local.ibvision.nl/api/v1/articles/justdropped
+
+Questions:
+Case 1: If there is no product detail api then
+# How we get the select size: price and delevery days information by country?
+# Product information data
+# Size chart data
+# Review data
+# Inspiration
+# More to love
+
+
+## General questions
+
+# Category
+- Should we keep item like Dresses, Shoes, Lifestyle and Valentine on Home screen if so then how we get these data?
+- Will it be dynamic or static?
+
+
+
+

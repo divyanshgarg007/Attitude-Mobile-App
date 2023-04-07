@@ -1,0 +1,91 @@
+
+## April 27, 2022
+Wishlist questions/suggestion
+
+1. What happen when user create a board?
+   - Will it shows empty in the board list?
+   - Or add a provision to add some article in it.
+
+2. All Items screen
+   - When user select articles and at the bottom 'Add to Board' button
+   - What happen when use click on it? 
+   - Will it show board list in popup and choose a board in which we want to add.
+
+
+
+## May 04, 2022
+Questions/suggestion
+   Article Detail
+   - Size chart: Need separate data/ui for cm and inch
+   - Need design for 'Review'
+
+   App_Filter_search_sub_page.psd
+   - Need design for 'MEN' and 'FORUM'
+
+   Next week target
+   - Search: by text and recent search ui
+   - Sort and Filter ui on category page
+   - Share product and board ui
+   - Lars feedback
+
+
+   ## May 20, 2022
+   Questions/suggestion
+   - Navigation Icons (footer): We have to make distinction of select and unselected icon
+   - To discuss product sort and filter flow
+   - App_article_category_overview_page’: 
+     # By defalut the tile will be unselected and 
+     # onClick it will be applied and selected
+
+
+
+## June 16-23, 2022
+Feedback fixes:
+- Article detail page: When click on [heart] then show [add to board]  : Done
+- Dropdown Countries need to be over the bottom navigation: done
+- Just to dropped item list
+- Most wanted item list
+- Women and Men category/sub category list 
+- Mock product list with just to dropped Items
+- Link product detail with following implementation
+  - Product images
+  - Price to two decimal point
+  - Product description
+
+
+## June 28
+## Questions
+- Product list by category id
+- Quick filter list and product list
+
+## Sort
+- How we get data by [Popular, What's new and Lowest price]
+
+## Filter
+- Filter screen item/sub item and product list
+
+## Product Detail
+- Size information
+- Product information
+- Size chart(currently this is static)
+- Reviews
+
+
+
+- How we get category icon image
+
+
+
+14/10/2022
+- The slider action Link
+- Dress, Shoes, Lifestyle, Val
+
+27/10/2022
+Completed: Home page content
+
+Questions:
+- Need slider data in home content api
+- Need to discuss checkout and payment txn api workflow
+
+
+

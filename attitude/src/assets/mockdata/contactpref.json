@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "DISCOUNTS & SALES",
+        "description": "Be first in line to nab the stuff you love for less.",
+        "status": true
+    },
+    {
+        "id": 1,
+        "name": "NEW ITEMS",
+        "description": "Fashion drops, news and style advice: hear it first, wear it first.",
+        "status": false
+    },
+    {
+        "id": 2,
+        "name": "YOUR EXCLUSIVES",
+        "description": "Enjoy a birthday treat, as well and account updates..",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "ATTITUDE HOLLAND PARTNERS",
+        "description": "Stay in the know with exclusive collabs and handpicked offers.",
+        "status": true
+    }
+]

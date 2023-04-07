@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Short dresses"
+        },
+        {
+            "id": 1,
+            "name": "Long dresses"
+        },
+        {
+            "id": 2,
+            "name": "Swing dresses"
+        },
+        {
+            "id": 3,
+            "name": "Pencil dresses"
+        },
+        {
+            "id": 4,
+            "name": "Wedding dresses"
+        },
+        {
+            "id": 5,
+            "name": "Corset dresses"
+        }
+    ],
+    "recent": [
+        {
+            "id": 0,
+            "name": "Harness"
+        },
+        {
+            "id": 1,
+            "name": "Leggings"
+        },
+        {
+            "id": 2,
+            "name": "Hello Kitty"
+        },
+        {
+            "id": 3,
+            "name": "Killstar"
+        },
+        {
+            "id": 4,
+            "name": "Demonia"
+        },
+        {
+            "id": 5,
+            "name": "Pleaser"
+        }
+    ],
+    "filter": [
+        {
+            "id": 0,
+            "name": "Product type"
+        },
+        {
+            "id": 1,
+            "name": "Brands"
+        },
+        {
+            "id": 2,
+            "name": "Size"
+        },
+        {
+            "id": 3,
+            "name": "Colour"
+        },
+        {
+            "id": 4,
+            "name": "Style"
+        },
+        {
+            "id": 5,
+            "name": "Look"
+        },
+        {
+            "id": 6,
+            "name": "Pattern"
+        },
+        {
+            "id": 7,
+            "name": "Occasion"
+        },
+        {
+            "id": 8,
+            "name": "Shipping"
+        },
+        {
+            "id": 9,
+            "name": "Price"
+        }
+    ]
+}

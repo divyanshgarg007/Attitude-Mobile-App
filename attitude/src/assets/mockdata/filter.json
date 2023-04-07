@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Dresses"
+    },
+    {
+        "id": 2,
+        "name": "Trousers"
+    },
+    {
+        "id": 3,
+        "name": "Coats"
+    },
+    {
+        "id": 4,
+        "name": "T-shirt"
+    },
+    {
+        "id": 5,
+        "name": "Hoodies/Jumpers"
+    },
+    {
+        "id": 6,
+        "name": "Skirts"
+    },
+    {
+        "id": 7,
+        "name": "Corsets"
+    },
+    {
+        "id": 8,
+        "name": "Legwear"
+    },
+    {
+        "id": 9,
+        "name": "Bodysuits/jumpsuits"
+    },
+    {
+        "id": 10,
+        "name": "Onesies/Pajamas"
+    },
+    {
+        "id": 11,
+        "name": "Underwear/Swimwear"
+    },
+    {
+        "id": 12,
+        "name": "Plussizes"
+    },
+    {
+        "id": 13,
+        "name": "Sportwear"
+    }
+]
